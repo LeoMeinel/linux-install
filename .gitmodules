@@ -1,0 +1,9 @@
+[submodule "mdadm-encrypted-btrfs"]
+	path = mdadm-encrypted-btrfs
+	url = git@github.com:LeoMeinel/mdadm-encrypted-btrfs.git
+[submodule "cryptboot"]
+	path = cryptboot
+	url = git@github.com:LeoMeinel/cryptboot.git
+[submodule "wallpapers"]
+	path = wallpapers
+	url = git@github.com:LeoMeinel/wallpapers.git
