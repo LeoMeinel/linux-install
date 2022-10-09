@@ -31,9 +31,9 @@ rm -rf "${DIR:?}/.gitmodules"
 git add .
 git commit -m "Remove submodules" || true
 git submodule add git@github.com:LeoMeinel/cryptboot.git
+git submodule add git@github.com:LeoMeinel/dot-files.git
 git submodule add git@github.com:LeoMeinel/mdadm-encrypted-btrfs.git
 git submodule add git@github.com:LeoMeinel/wallpapers.git
-git submodule add git@github.com:LeoMeinel/dot-files.git
 git submodule init
 git submodule sync
 git submodule update --remote --merge
