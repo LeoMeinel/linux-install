@@ -32,7 +32,7 @@ git add .
 git commit -m "Remove submodules" || true
 git submodule add git@github.com:LeoMeinel/cryptboot.git
 git submodule add git@github.com:LeoMeinel/dot-files.git
-git submodule add git@github.com:LeoMeinel/mdadm-encrypted-btrfs.git
+git submodule add git@github.com:LeoMeinel/arch-install.git
 git submodule add git@github.com:LeoMeinel/wallpapers.git
 git submodule init
 git submodule sync
