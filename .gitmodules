@@ -1,0 +1,12 @@
+[submodule "cryptboot"]
+	path = cryptboot
+	url = git@github.com:LeoMeinel/cryptboot.git
+[submodule "dot-files"]
+	path = dot-files
+	url = git@github.com:LeoMeinel/dot-files.git
+[submodule "arch-install"]
+	path = arch-install
+	url = git@github.com:LeoMeinel/arch-install.git
+[submodule "wallpapers"]
+	path = wallpapers
+	url = git@github.com:LeoMeinel/wallpapers.git
